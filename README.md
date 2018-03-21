@@ -1,3 +1,3 @@
 # Scheduler-Spring
 
-Projeto para gerenciar tarefas usando spring. Imagine que seu sistema web precisa enviar notificações para seus usuários de tempos em tempos através de emails ou executar outras tarefas rotineiras
+Projeto para executar tarefas usando spring. Imagine que seu sistema web precise enviar notificações para seus usuários através de emails ou executar outras rotinas de tempos em tempos. Esse mini projeto foi feito pensando nisso.
